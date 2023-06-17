@@ -60,7 +60,7 @@ Please note that this is a practice project and should not be used for sending m
 
 ## Contributing
 
-Contributions to MassMail are welcome! If you would like to contribute to this project, please follow the [contribution guidelines](https://chat.openai.com/CONTRIBUTING.md).
+Contributions to MassMail are welcome! If you would like to contribute to this project, please follow the [contribution guidelines]().
 
 ## License
 
@@ -68,7 +68,7 @@ This project is licensed under the [MIT License](https://chat.openai.com/LICENSE
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, please feel free to reach out to us at [email@example.com](mailto:nagipragalathan@gmail.com).
 
 Enjoy using MassMail to simplify your mass email sending process!
 
